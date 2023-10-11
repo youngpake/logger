@@ -1,0 +1,18 @@
+# CustomLogger
+
+CustomLogger is a Python logging module that provides a versatile and humorous way to handle various levels of log messages.
+
+**Author:** youngpake github
+
+**License:** [MIT License](LICENCE)
+
+## Features
+
+CustomLogger offers the following logging capabilities:
+
+- **info_log:** Logs informational messages.
+- **critical_log_to_file:** Logs critical messages to a file.
+- **critical_log_to_pushover:** Sends critical messages to Pushover and logs them.
+- **daily_check_log:** Logs the outcome of daily checks.
+- **doomsday_logger:** For the most dire situations, logs and sends messages with a touch of humor.
+
